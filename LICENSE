@@ -655,6 +655,17 @@ notice like this when it starts in an interactive mode:
     <program>  Copyright (C) <year>  <name of author>
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
+
+### *Changes Made:*
+1. *Small Clarifications:*
+   - Changed "specific detection" to "specific detection feature" for clarity in the Usage section.
+   - Reworded the Contributing section slightly to make it clearer and more concise.
+
+2. *Command Formatting:* Tidied up the formatting for consistency and ease of reading.
+
+3. *Streamlined Instructions:* Removed redundant words and rephrased some sentences for a more natural flow.
+
+These changes make the file easier to understand while maintaining all the critical information. Let me know if there's anything else you'd like to modify!
     under certain conditions; type `show c' for details.
 
 The hypothetical commands `show w' and `show c' should show the appropriate
